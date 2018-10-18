@@ -1,3 +1,19 @@
-#turtles , #snakes2 {
+#turtles , #snakes2 , #insects2 {
   display: none;
+}
+#insects {
+  font-family: serif;
+  font-weight: bold;
+}
+#snakes {
+  font-family: fantasy;
+  font-weight: bold;
+}
+#turtles2 {
+  font-family: cursive;
+  font-weight: bold;
+}
+h3{
+  font-size: 20px;
+  font-weight:bold;
 }
